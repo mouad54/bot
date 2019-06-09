@@ -1,7 +1,7 @@
 const Discord = require('discord.js');
-const devs = ['389090790984515594'];
+const devs = ['405000531896041483'];
 const db = require('quick.db');
-const premium = ['470896018603376640']
+const premium = ['585950963848970241']
 const client = new Discord.Client();   
 const bot = new Discord.Client();   
 const giphy = require('giphy-api')();    
@@ -3524,4 +3524,4 @@ client.on('guildMemberAdd', member => {
 return channel.send("")
     }
     )});
-client.login(process.env.BOT_TOKEN)
+client.login(process.env.NTg1OTUwOTYzODQ4OTcwMjQx.XP1-ug.4QNLB65l59ZojIOJC6ktpe3m2uw)
